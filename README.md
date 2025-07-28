@@ -6,7 +6,7 @@ Welcome to my GitHub profile! Here you'll find my projects, interests, and a bit
 
 - 🔭 I’m currently working on: **Outlier.ai**
 - 🌱 I’m learning: **AI, ML, Finance, Blockchain Technologies**
-- 👯 I’m looking to collaborate on: **[Open source, side projects, etc.]**
+- 👯 I’m looking to collaborate on: **Impactful projects**
 - 💬 Ask me about: **AI, LLMs, Web3, Blockchain**
 
 ## 🛠️ Technologies & Tools
